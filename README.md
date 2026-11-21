@@ -94,4 +94,5 @@ Run on **Google Colab** with GPU runtime for best performance.
 ## Author
 
 **Syeda Azka Qadir** — MS AI @ NUST Islamabad  
-[LinkedIn](https://linkedin.com/in/azka-qadir-b8a0a020b) · [GitHub](https://github.com/AzkaQadir)
+**Irsa Aziz** — MS AI @ NUST Islamabad  
+**Roshni** — MS AI @ NUST Islamabad  
